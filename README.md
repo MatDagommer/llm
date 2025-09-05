@@ -43,10 +43,6 @@ With LLM you can:
 - [Grant models the ability to execute tools](https://llm.datasette.io/en/stable/tools.html#tools)
 - … and much, much more
 
-## Edits
-
-- Add AzureOpenAI
-
 
 ## Quick start
 
